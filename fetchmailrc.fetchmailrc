@@ -1,0 +1,12 @@
+set syslog 
+set logfile fetchmail/log/fetchmail.log
+
+poll "citismatrix.zapto.org" 
+proto IMAP
+port 143
+user "info@zapto.org"
+pass "qwerty123"
+keep
+
+mda "/usr/bin/procmail -f %F -d %T"
+set daemon 20
