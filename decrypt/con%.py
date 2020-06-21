@@ -1,0 +1,5 @@
+from matrix_client.api import MatrixHttpApi
+import sys
+
+matrix = MatrixHttpApi("https://citismatrix.zapto.org", token="MDAxZGxvY2F0aW9uIGNpdGlzLW1hdHJpeC5ydQowMDEzaWRlbnRpZmllciBrZXkKMDAxMGNpZCBnZW4gPSAxCjAwMjhjaWQgdXNlcl9pZCA9IEB0ZXN0OmNpdGlzLW1hdHJpeC5ydQowMDE2Y2lkIHR5cGUgPSBhY2Nlc3MKMDAyMWNpZCBub25jZSA9IEdSN0ZhclFqZ3F1WEVZaEkKMDAyZnNpZ25hdHVyZSB6XE7I2_B8d8PBBHgIiTua2UXZ-hp6wUaUkQUSqtjAWgo")
+response = matrix.send_message("!fiQWALFRGOjvqXQJSK:citis-matrix.ru", sys.argv[1])
