@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 15:46:38 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 15:32:39 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 15:46:38 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6CPP-0000Hp-29
+	for info@zapto.org; Thu, 13 Aug 2020 15:32:39 +0300
+Content-Type: multipart/mixed; boundary="===============2049209126422522124=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============2049209126422522124==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============2049209126422522124==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgAyiWawYeZgRH7vdFmnoGq+H0NC/zskqMLjWgDFw+Cm5KYIoUYewNdpfSz
+r12xdVS3s7VsoASSxDwTI6YJBxxhg13MNXNX+YzhkAetrbEOmEp5bRLRoowwallq5C8rh2+JNAyB
+w1RVAoSmsuUp/sduUqupjV38BzGsAmKKsjJq7PkAYSBMavLYMBQ2bHkuFlawkAFD88eBPwWz+VyX
+8eePiPowhiWQmPvFW8+9Rrjt8fWtthQJ/itRBoUeJP7kE4bN5TbIZKtvqqUB1fihFsG1/52ubDBP
+OS8zBvFn02tZF2/luCP2sYqYpeX0WwCshWpsMl4eYM3yReIpKaDusPukr9JPASG+vFECn0zPf/LQ
+qrTxMtNC8UR21Gk/fGpKzYbcHhjakzAnId20osf2WEACwBjmBWKzD82h80LS7CJEyjf9b+BJUYWu
+Op8or4hog/2POw==
+--===============2049209126422522124==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNTAzAAoJEAc/Y4ERb2dLQnAH/2Vv0ONhUlT4J0vIcAcGoDHFOvyDcXZ6rLKM
+1njUdEZSAU+AymSgkOCK33n2YGLGXeYssT0aal4POxe68JzWDNtwnd83xlNICvqoBebBoUP/lWWp
+0pXiIhvVsvxam8ZDzRY3t/3RITfBw9lM52ftnbFdjpYgZhCgh+hu6plJaR/6iQtXysPYL9TAYJdo
+IRh1VaOEyzcwOp13smZCSctchEsR5njmPTdvG74OH9ut/b7mSgp7VTQwPhwLcARVieQdNmM7Ey5Z
+ZOzY6oJr8PdEIM7AKZ0wy3lvojC/u1rxnss+i5rqa8+KRJVXBk5ZECVmN00uuMnR5/vs4FhgRmGd
+40I=
+--===============2049209126422522124==--
+

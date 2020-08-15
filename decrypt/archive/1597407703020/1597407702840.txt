@@ -1,0 +1,1 @@
+server_243 Zabbix agent is not available (for 3m)

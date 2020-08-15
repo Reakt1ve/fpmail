@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 14:06:41 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:17:42 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 14:06:41 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6XiQ-0009GA-3H
+	for info@zapto.org; Fri, 14 Aug 2020 14:17:42 +0300
+Content-Type: multipart/mixed; boundary="===============7630929167637823620=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============7630929167637823620==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============7630929167637823620==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf/WyhMr7JsuksK/bM3LeiVWKdOvDnw7I/47UBgaSTVhevluQGX9TbQHZ+K
+5m/8Lr70+xK5UJ29ohMWHXES6tkCCyqJRShGvo/wI8HeUJX7EmgwkaygpvRYT5QW1EA7Nxg/YFp8
+x0QK5CpQOXlvCdssUBrpZ/Pd9WmbIqlSkFME4xRZvsiCzMeSG5FRlak0DxHYUNq8iWIU+cCM+rWV
+OrDQCFeWsE6heCpUrq3Tx64Wk10jRNONo9d/vPJDWpnuV7bYMDjUObjInJ2OGmVLbBeT4ABwnQr0
+jfribh/B0RsV+sXFP5cZtzYd22IoYC1RRSVhd+U+uZTUKrSDYoxBEAb9d9JZASuF6oTCBpW6GYU8
+MtIQZHt0ZWHOz1qSRAdYAeAABsMDnH7WSeUNh5cxWYMJwK3c5r6qpcNqTb8ODNr53vu3yEEc2Lrw
+x3jIr5j4ntS+WPcL2/lwmNT99ac=
+--===============7630929167637823620==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNnAiAAoJEAc/Y4ERb2dLZFcH/iVXfKcqUwlGEgPeyzrA/oJ40oOx0yp939jf
+lYl7ICSeP/Tii73rvERsWiCM/uPiUuXV5scnILOCxbbwlO9auSJSIHj6IQka4fZoIILyZ0opBGm3
+sZUOasdqWxzgNRzF8SFcDJy4+gbv2Dh8S7TQP42tGOOCrpbdevP55rm2EgqM6v6Z3/rxL4Bktmq7
+/aQiuar04qv/nuuKVVKaqYrmG5JqbDJQLcvOmwVVSXfl8/5osTMvvFWLQ3aamTIh89FNBGn37WCN
+P8XY3CZWBxaSyN98KwpKBqImfCZshksgwrLejmyTUgjbvoUY0Xs2mdFFs0+jXzRB85yO+oY0p1xa
+96c=
+--===============7630929167637823620==--
+

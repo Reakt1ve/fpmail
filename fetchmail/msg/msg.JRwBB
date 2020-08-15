@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 13:53:29 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:04:27 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 13:53:29 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6XVb-00098D-FY
+	for info@zapto.org; Fri, 14 Aug 2020 14:04:27 +0300
+Content-Type: multipart/mixed; boundary="===============7983888397414052496=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============7983888397414052496==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============7983888397414052496==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf/RC3GFMTOVtn9yrwvG1r9N5mL1LCnMYIPOxlxoPDgqOMA5clbtQ1L9K6x
+6jyukPQT53h6Ba+gibBDK7pTw95seT0i/OkMTFk0/+OvfDwWrHsUxUEEEgRHrCl6oU26zo7lxtFy
+rHG/Djck+O6WAagikteBegIj/ZH7Tuq6bPTsE3lmDCTPB9y3VpVtWxNohRo8rc4dlnfa4tcWStCa
+cbkK9jjKRYZ8B9EVitK0Zovu2KEd8oruuimh9yS8lv438mPhCGZEoxRXr3J5AteUT8N8bFacqkX6
+iStZczngLXsEcYVfKssR2I6ZqG33Qik+ooSkT5OaisE+cj8mY30bcBw/69JZAbl8gHfxCd/nSK1i
+xKGE+EgQ8Z98WhM/650vTqPuVZPZF0Zbg674wxwb/AK5f0Bi2El7H4ixVbK4FRDupjfDdzY2kNKk
+9pswglNa81W5LybNKqJ4SNb3bF4=
+--===============7983888397414052496==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNm0HAAoJEAc/Y4ERb2dLwsMH/25mZ7csY+S8nEd2Eg7hu7ARrw1QPM2YHVw5
+msKYmb9Kqxk80iAZdfh31Ls0unvRqA491/WdjQjOF/ILm67DFMOUAoc49mvKOtbHPVpcAtMOOr05
+7wz50DzD3aBYbj1iN3ujvTcv1XugvH3ChL5+tcrQ/hWGUwcnR/lx6tdl3QsB7Q7E9u6QNTzgpOh8
+R/vRwAf0jg5IPsffl6fDuJOX7EkZPZ/r9muUbe2aVDx8LJU2WPMECUU2f7N1RBWOgjRQZ3hm7yZN
+4+PZGlXFDrd1KpfQ64LjZSakKcOs5NMK92JrjWjqmdvRgPzbh2RHITGQ7F4RuCBzgy/Tbo/oG8dC
+w2Q=
+--===============7983888397414052496==--
+

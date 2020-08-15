@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 15:31:46 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 15:43:07 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 15:31:46 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6Z35-0000Em-2U
+	for info@zapto.org; Fri, 14 Aug 2020 15:43:07 +0300
+Content-Type: multipart/mixed; boundary="===============0232150572999547750=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============0232150572999547750==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============0232150572999547750==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf9FlhR2WmQXyHmNe94rHI+Nn/NCAu1F/HcCkbZ7itmGamYmJVH7HQimsCD
+sdY2vvB8+cGDPWGR4fWD+6SRnye2KgIhHcndPPvR8f4t+AjrtG1G75J6kua+tXRkGvV3XPnV7GzS
+QwxY7rzKv6Hoyq57zadGUfXs36IQuk6tOxhfi5Tu1aSLvG9AapuXnt2jozFoimNuJJZy7KVGYJAk
+q4ouxDdz2EPpLXt3gINzqntkx9NgCvQgWIRGZ7rVsdLhoVEvpqIR6GF8dI71ge4PUAnq3qEdasIO
+eoecz4p7hD5s+xWaiLMcMA30CSDlbXBMkx9a+QKHxKwFM467rvt3zHmNe9J9ASx2WCY13uurU3Qr
+vcHog+vci8O5+I04LtQOWIrIlT0DAYxnBSV++mYMlRt1Iy7QsIRfMylcn6sbJDzmmOsa36d57vPl
+f+9YfJHfo6aLCj0AZDidq8R9/j5t7qBG5Skn/EDD2aloMhOw1vb4Gg/R7uqXJa+FhPjXmQtIWvo=
+--===============0232150572999547750==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNoQnAAoJEAc/Y4ERb2dLHEwH/2CWTH1qUtoZWlSgZWe2vQYmiRhm2Xo6EF92
+iDtsaGpUpraUzSaeLrl+jOtRkdL+O+9ayN6pfGcU1tg3AvzbFEh2WvCV2TxL7JBn4slgnlzmHSxo
+M9SwDPIkCYUczbTW4bnxJhHOHRIfkAobkcJcyjBmxwKWSd75Lfm7L37sxtNRDiFIIs4xvabp1QlN
+5lsK57IC2f0AJ3x9CQgQGYF1AMqSv+tMm5fpGqQqKNFMcsHQ63tLqzzwJTVs34DbtgGmmxN5kRz7
+S9ZPZ/TXQ0OWO/mcbxycJ/yBm6P3ydAPMda3J9Y2x1+bInftQ5WqDioQ/5IymTIH0aMjoac193gH
+kwA=
+--===============0232150572999547750==--
+

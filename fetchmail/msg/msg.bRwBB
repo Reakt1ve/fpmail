@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 14:12:05 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:23:16 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 14:12:05 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6Xno-0009Ij-JI
+	for info@zapto.org; Fri, 14 Aug 2020 14:23:16 +0300
+Content-Type: multipart/mixed; boundary="===============2376327980001069772=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============2376327980001069772==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============2376327980001069772==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf9HLyqQtPGnMrPNJlI+CIO0lY2476jk5Fm8N7NMfdnrA8tsRGeeepdqcEL
+N3GMjyKLHjeJxn9jFIz6VJyVpvdeeED0ffTkcBjfYlo/eJZakNszdpn3EkzpoosHKYuN9W+DLGEI
+TuFwCLKDT2YhrJQiaJFgU4wjbu/5cNrIAIXQXbvbY3dI19vBcugZnf6zTOoJryGULych2FW2NfeW
+vVzuj2A/spV8hUVC0Hr8dXg08lVFUrFRmfvl8ThxMi2dHfPi4Qe6Lln0gjFBgSuIVcnJb6bH8/Gv
++kYA2VOTyUKOipw31N9VKWmuREvpHIMJG7cAxeFn/dAF0xoYdlwi0ZASu9JZAYYzj0aF4Xmm1cYT
+ypgm4oCv0dOXufBfn2AoApx5vn+Ib4zqyDShVoomIRvAj7ZKwaL9nyOhTnJ7i8DSs5+rNQKICSNb
+OnMFGDlAGjTgEYmOLm0CxAOD3SU=
+--===============2376327980001069772==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNnFwAAoJEAc/Y4ERb2dLdpsH/02mE5PpG53x4CiAlO0Nt4HuxkaQT4qfV0Wm
+B8fDvDIvPQPCBa9pXaTr3/Twe3hP2bZS45/vu1t1osnI0XGldyuToRmaNBw1OnIq8dvtpnwjy/a5
+egHhd7ZKBVyAlDemuddUYk+rrvISJZv7uqznBCT+A6S1N2JlpvbOB5A++DoOtL3/VjBjpPt81/+3
+H9GEE7Nd3zG9Wq1PmlgI1LgohSNqojWclabHNrVTaA1w2Qv5ls3nhpRhy/if7sqFlmW9hUOA+tlM
+pn1Ujfi7tU0oZhJEN5r7OpN6c0K43CmcuGAr5pvlwQbbbsiCuLC3gspTo18PW1otqs0LttBaUPB0
+fKE=
+--===============2376327980001069772==--
+

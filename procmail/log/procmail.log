@@ -1,0 +1,463 @@
+procmail: [3874] Thu Aug 13 15:46:38 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.MMFBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.MMFBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [3878] Thu Aug 13 15:46:38 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.SMFBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.SMFBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [3882] Thu Aug 13 15:46:39 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.aMFBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.aMFBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [3886] Thu Aug 13 15:46:39 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.0MFBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.0MFBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [3890] Thu Aug 13 15:46:39 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.3MFBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.3MFBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [3894] Thu Aug 13 15:46:39 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.WTFBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.WTFBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [3898] Thu Aug 13 15:46:39 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.ZTFBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.ZTFBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [3928] Thu Aug 13 15:47:15 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.t9KBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.t9KBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [4112] Thu Aug 13 16:03:27 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.QMFBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.QMFBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+/bin/sh: uudeview: No such file or directory
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	      1
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [4357] Thu Aug 13 16:12:27 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.IjZAB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.IjZAB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uulkFbZJ: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uulkFbZJ: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: [4357] Thu Aug 13 16:12:28 2020
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: [4357] Thu Aug 13 16:12:28 2020
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [4393] Thu Aug 13 16:14:15 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.KjZAB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.KjZAB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuQEBVOK: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuQEBVOK: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    589
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+Traceback (most recent call last):
+  File "/home/alexeysenu/informator/decrypt/procmail_trigger.py", line 18, in <module>
+    client_program()
+  File "/home/alexeysenu/informator/decrypt/procmail_trigger.py", line 10, in client_program
+    client_socket.connect((host, port))
+  File "/usr/lib64/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 111] Connection refused
+procmail: [4432] Thu Aug 13 16:16:39 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.LjZAB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.LjZAB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuYx1dAy: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuYx1dAy: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    589
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [4513] Thu Aug 13 16:29:55 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.MjZAB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.MjZAB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuS6gVag: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuS6gVag: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    589
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [4688] Thu Aug 13 16:35:18 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.OjZAB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.OjZAB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uunCgsVK: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uunCgsVK: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [6546] Fri Aug 14 13:40:53 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.TjZAB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.TjZAB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuCK5kCT: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuCK5kCT: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [6770] Fri Aug 14 13:48:41 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.ITwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.ITwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuVNUUZi: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuVNUUZi: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [6849] Fri Aug 14 13:49:54 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.LTwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.LTwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuOxooLL: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuOxooLL: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [6927] Fri Aug 14 13:53:29 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.JRwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.JRwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuGteJkv: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuGteJkv: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7006] Fri Aug 14 13:59:29 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.ORwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.ORwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuMD4eB6: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuMD4eB6: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7093] Fri Aug 14 14:04:53 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.QRwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.QRwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uu5hZiRP: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uu5hZiRP: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7167] Fri Aug 14 14:06:41 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.SRwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.SRwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuefzhwH: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuefzhwH: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7239] Fri Aug 14 14:07:17 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.URwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.URwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuBbzXNP: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuBbzXNP: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7311] Fri Aug 14 14:08:29 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.XRwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.XRwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuDJuV0w: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuDJuV0w: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7384] Fri Aug 14 14:10:17 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.ZRwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.ZRwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuFuY1fl: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuFuY1fl: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7458] Fri Aug 14 14:12:05 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.bRwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.bRwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uu8lrz57: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uu8lrz57: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7531] Fri Aug 14 14:15:05 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.dRwBB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.dRwBB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uu3oY33i: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uu3oY33i: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7604] Fri Aug 14 14:16:17 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.C7QCB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.C7QCB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuZmnSZ2: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuZmnSZ2: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7676] Fri Aug 14 14:18:41 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.E7QCB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.E7QCB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uu0WEDY2: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uu0WEDY2: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7768] Fri Aug 14 14:44:29 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.H7QCB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.H7QCB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuDIFaMT: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuDIFaMT: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7843] Fri Aug 14 14:49:54 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.J7QCB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.J7QCB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uu8cZrlR: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uu8cZrlR: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [7940] Fri Aug 14 15:06:06 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.M7QCB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.M7QCB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuDg6awo: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuDg6awo: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [8018] Fri Aug 14 15:21:42 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.O7QCB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.O7QCB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uujZlpyK: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uujZlpyK: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: [8094] Fri Aug 14 15:31:46 2020
+procmail: Match on "^content-Type:"
+procmail: Locking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/fetchmail/msg/msg.Q7QCB"
+procmail: Opening "/home/alexeysenu/informator/fetchmail/msg/msg.Q7QCB"
+procmail: Acquiring kernel-lock
+procmail: Unlocking "/home/alexeysenu/informator/fetchmail/msg.lock"
+procmail: Executing "uudeview,-i,+a,+o,-p,/home/alexeysenu/informator/fetchmail/attachments,-"
+Loaded from /tmp/uuYLoGMY: 'Test' (Test): dbText.txt.asc part 1   Base64
+Loaded from /tmp/uuYLoGMY: 'Test' (Test): dbText.txt.sig part 1   Base64
+procmail: Assigning "LASTFOLDER=/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+procmail: Notified comsat: "alexeysenu@:/home/alexeysenu/informator/decrypt/procmail_trigger.py"
+  Folder: /home/alexeysenu/informator/decrypt/procmail_trigger.py	    241
+procmail: Executing "/home/alexeysenu/informator/decrypt/procmail_trigger.py"

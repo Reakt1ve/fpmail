@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 16:12:27 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 16:23:53 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 16:12:27 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6DCz-0000aX-Je
+	for info@zapto.org; Thu, 13 Aug 2020 16:23:53 +0300
+Content-Type: multipart/mixed; boundary="===============9062509088003915622=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============9062509088003915622==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============9062509088003915622==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgA4vZ3U3tcfKaGQqK2qk7hC2p0dFZiouh86Y7xicxAi2+L4shKB3W0bt4s
+b88YeiqGeXpufyt/pPs+yp50u7dh/XJxJmKEBQ41vsEnhGtNImXyzQGEt/I6TFeEf51GTgkbIkKK
+o/GLTDTSA4mhrD68jg6gWF1FgC0RNy15cK1gj884gjq73TwnYzt812cPgTya0z8mG+VHfmylEVL7
+9z90CEeVlib5sMJ2JbGQszhfu/J8WVvSHWlg0hegQhSCUH9BvPaKM9d0r3eaacqapbATrKnwR95I
+Pxe/NZOmYIedf2qcJRAaZtFSf+TGQGmzEMEoiIOmno/EsgZsdb0G60EvOdJZAbS3GKvnFm45579Q
+YlMeG8CSSm1ZDgtbom2B9yiZe3g8D3HycHxJB6ptd7xUo9/2+vjh5Ko01dJthSWmIWIvlR+qipZ/
+spIXwZk1e7qk0M/wlMGnTOMC+bo=
+--===============9062509088003915622==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNTw1AAoJEAc/Y4ERb2dLRQ4H/iQe4sSwKfvG+PNyT3dh+fK+KgDFgc+pNDBf
+cID4Piu1SobqFsASCojd5BCiC7cy302cYgMp1sTx0fjM0KmP4/08CGcIxfacmNk5IZcp3WJRwyJ0
+RgUTT1LRInEP9zqZyDElr8ubTp6ioxpS+hZGDe6jbMZAVNVkcf4pXwA3ZD2otQWnoLMioCkk8dOn
+LB+VygNpQS0e3/h4fiRtvHuc44z7Qtmok8reCffurgGaauwKHjSg+upIwGbc7HokPgli5RgvoqhR
+AIumleFroREOfdEXGL9k+Kx1JBn0RqGbJrdWq6kOsUNmOZgP3HpH3GjhkcsvvY2dpwznE7vVsgGO
+aMs=
+--===============9062509088003915622==--
+

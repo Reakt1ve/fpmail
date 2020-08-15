@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 15:46:39 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 15:55:19 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 15:46:39 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6ClL-0000Pl-KO
+	for info@zapto.org; Thu, 13 Aug 2020 15:55:19 +0300
+Content-Type: multipart/mixed; boundary="===============7995576898046654191=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============7995576898046654191==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============7995576898046654191==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf/UgWkVKtIRdL44Fnjgrk6xyAf/8Xxz3ybHIrCiqphmjMxQxDE1PXudwdP
+XHcLQhxWZEpaAqmyhKToqaBZQqr5caagcihk5Yn1gk3v/ZUBJmrxOwD3sZ5lsp2yKm2UnAFY1Pai
+wApOGw5K1zckMu0vA4lLoPnoqszGi0scNKHJzr3NPN6QibpxlvIFC3HmMsSJDGpCyA4A1OoKIwK+
+AYK7VDuaprASh90XCpgIen3AbXcJZWruxUpbGuTH6ylGISN8XMCMNBkoX6Ild4w62CRuQ6VryY7H
+tjNmj/DhD03CA96fOuGLG2ETRohN+yTjhLLqbEgYLRG3Il9sGkVoGNN5TNJZAVZvYbHrv4qNIvwS
+Gmtp/prM7Eb3tSidutxefVYGdA7L03b66kbr41GFZ2+H0ShIW0r87kwaJwL788PI6dN3zEPtE9D9
+6UEwG1segXMD2ywJWoA9GuEcMbU=
+--===============7995576898046654191==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNTWDAAoJEAc/Y4ERb2dL+ncIALjkqMuYkgqHX1XfGtOCvQTGqbYR/hZNQwGr
+N7TmdLzzQ04IlAc05EUWGsWutpdgoA4Zh6tCc4Cx0/sDSAYVfWTgDblWUMvc3bmdRzT64VP5OIcx
+3KoQw6BwLc+4cEUEQdM1XCNrU42TdUWWhABqY+4yO9qfWBe0HUhpjw1/53fFFYxl0GEMgO0P+49f
+6wU8KO3yV0W4QpON25Ufdr+YQ7EjDN6SxV0LWxLgKYCterkoOddNs7MJnF0bImDUW0/h1yLhWgmn
+tm6QG+cAVLXd/8ZzVNYuiJ264SOZQ78wdZ/QaA6DIll32s0L4kVxM3zfhCXZ6Tw+/efq2ximSFAe
+rV8=
+--===============7995576898046654191==--
+

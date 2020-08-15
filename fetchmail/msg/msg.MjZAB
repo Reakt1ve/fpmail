@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 16:29:55 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 16:41:20 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 16:29:55 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6DTs-0000hf-Nf
+	for info@zapto.org; Thu, 13 Aug 2020 16:41:20 +0300
+Content-Type: multipart/mixed; boundary="===============5384050797206948491=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============5384050797206948491==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============5384050797206948491==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgAiCPlY80+sN4CH1SU3H2gSKLOi1J7xT0WdZYNpuHE3vNxYNPbC9jeeikt
+X5jw4BSgd67m88lOZxTSYMT3dPhG0aMk0a/pPfMvTv7DSKM/96wYCbnJi0z0th+1yGOeYweFRP+S
+aVGcp345W7QqA/LuW1y/abaCjAWt9Z7TQok7uhafN2WgpXYpNf1ePwsClt+6UjpZna5Q4hNQP+kc
+6Yy5xxOWKaHTTHWbDF4R1Q/NjiNeSlCXCf6zg21S1mXHZTdYIs+7CXNdyZx+E2WklBxxvg+5nGtd
+jLG0vNbJymoYANFzMK6lXergkgxsUtmFKho/6GpzXoDEer+tvs5Dfj5ae9JZAXQRfk2H53Xr4TTJ
+BmUt9UPXJyKogbBjAny0WPZ6jjrn0Lo0ZdRcNgjdAXoSO8T2NrpD8/TadeZScOuzXNRZTJm2lyLY
+9eZk4HUqekaFRaDZcbnFvkcqZzk=
+--===============5384050797206948491==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNUBNAAoJEAc/Y4ERb2dLEEQIAJmbl3vYZNCG1cMbzYG5UCzcwOEBOBG/A3DE
+ZvScDA6hrAq5KCmaTn4dAw3mTe00lFky9PAM1/ha7f6k2tfoCN95zraH6ugZbGanVaLcq/xeGKy8
+YJdCc0/WCcsjACVjaz8EWWgzoTEYzlzyAoHWLrPiMn+kal2k6tvcqw6KQQ8qRs1ztQG96614vWR/
+kIhcAc4PeI+1Nj9BveScTVvcmbVszEyLGTRs/9X/EN1L5VN8UL+kN38w321quAoYVGKVvAlBQc3X
+Hhpg+W5UF6mgQXujZ0bMOAw9Rgvq+KKKpJVz5pf9MiJDugxaPJvmuJzIXCYVab0f3K5jmVvKPtks
+Zco=
+--===============5384050797206948491==--
+

@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 14:44:29 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:55:52 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 14:44:29 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6YJM-0009XS-HN
+	for info@zapto.org; Fri, 14 Aug 2020 14:55:52 +0300
+Content-Type: multipart/mixed; boundary="===============9115114847638363860=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============9115114847638363860==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============9115114847638363860==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgA36AhT40f0RPr2j4Q0DryjbClPkqFcewU1cdxbN8rWRyDG6FRoe+lPTF/
+X5V9tv1bH8Ua26FSY9FaNp74wXoKUtrqaHbKtNoKbGaar/qdT+WqefKh/EGxBmmlHOs3ky/9sM/O
+63iiyGulhTv7rjaVgWokDm+LWzfIi75fDtVWI6ysLjKSjHj8DJsgiMXQAWL3HM7CI5wfosl5kHc0
+mE3ZSVBRJV3v4ZlPDrBnbZAwTQ7bgKa0VMplFtaBWUoo1sqiZy1VX85NHx9UxOsVgPc9U7nR9wsj
+pg4SltX4SsQytitmZjxZcBFxU2JsJvt4phdwfz7Z2ZiF7je0wT83moPiJ9JZAXqBSppQLrLWI/sd
+P15JAZDuAGcwWCYK2EwW/1YcnSaSvtSgvC6zCIx+8K/ETTUZtGdKM1Uog8UEeIU+oE5YZUqiawH8
+aj8VhLHtwVKbma8obgvpOwOgDj0=
+--===============9115114847638363860==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNnkUAAoJEAc/Y4ERb2dL4DkH/0mRE4P4X2CNIT68/NO3OQWid0tiXze0+K4i
+WXuXowjqkP0WC9Cq/BWnOAzUbuCosLry42MH+RFssNhycp2P/SLVzGQiExvd2RlO3Sg85unZTJre
++xWjqGt6Dr+a74647lHSvUAjYL5BEfRPg36mavN/WoRb9yANBuA0eB7lHRIXrOwNgw1meIhwLIix
+XWcooTOWQZg+nYrfdn0yhmv6tBOCjNdUsWyA2Wb48WBwYLZ4W38O5XxCvOf/VLdzxPvDxeOENhWQ
+8afCzX38sPjzooCS2kE+T55dxkw9CHWj9bxu8gOML163safUQ0ZREDnijlfH6MX2CqKVOPKU9oYu
+jmo=
+--===============9115114847638363860==--
+

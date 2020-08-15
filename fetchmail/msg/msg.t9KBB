@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 15:47:15 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 15:58:30 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 15:47:15 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6CoQ-0000Qr-61
+	for info@zapto.org; Thu, 13 Aug 2020 15:58:30 +0300
+Content-Type: multipart/mixed; boundary="===============2529219355260463144=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============2529219355260463144==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============2529219355260463144==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf/e3e73C6N1gJjokXiAfxkzF4nxme+qo4QbDroDHJCWth6BigsDaLydN9/
+mV7mdDCOf7/msczUJRqrEC2r7obd71xK+Z1aRfjWxKOL7ELnltUPOFI7hPErkwTy0QCR+VuD9+7t
+zh+njG+rYzmnpZCJm2oZWpGzbpGgXMVcDBjqHUEfXqU0GO5OHKlnsa9hfi1zFKQgT1VKcjfFranR
+fmmOMEN5y+PWURgQEA7lB6StY+JTaJic+BmEa3Vzizr4qlv8b8N6TedRxxknz4yp7E/jeVA4ueCv
+fBHHKTD7AOsowUCtvxwpriWv/DIBtJ+dJ8/ESiwwLemnoEsS82fbci/YQ9JZAa2Nh/Z4Km9LOI2g
+5ZbAhG+GpuZu0CNyuiPJpYxkJp5PfQ3o44olHaUIPmql7zuLkPl/T+UIZ1QDY06PUr77QU2x8c/I
+W+OtXwu2PTamUSLBFljl+h2p6N0=
+--===============2529219355260463144==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNTZCAAoJEAc/Y4ERb2dLn6AIAJM4Zd++0gFL0RD9n65QdfB5E5Rc/70MfUdO
+a1ak0zCVBtQGwZGYZ0M3/7BEg6vlBZpU7LPQW/3qaEA/8742GBGLQBysCOCHn1tIfzZ87Qh9ylW8
+Ttirb0nmN7kTxlYaOcThzSfhpa/2Or5lvmtg1a8Z3poAbDKwLU9CaS1VdmOu+XgVtYaZcqPbnUb/
+AbNMn4BzjgU4tq+j8LkR2zL/gEXLFZn3qSSjYu5OfIECvA37n3wTw/f26VTTi4b0cYsfWYZF1as5
+u/QxKWvMzby/yWPMobrhID14YbjXTutE3Xln2Por7KxVrwyGTaohqvDKqOckQezJtoAJWsO2558y
+/wY=
+--===============2529219355260463144==--
+

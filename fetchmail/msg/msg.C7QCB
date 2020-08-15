@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 14:16:17 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:27:22 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 14:16:17 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6Xrm-0009L6-6Y
+	for info@zapto.org; Fri, 14 Aug 2020 14:27:22 +0300
+Content-Type: multipart/mixed; boundary="===============6896144685289529995=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============6896144685289529995==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============6896144685289529995==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf8DaOgdSQg9K0/JYL/lLho59c42x7mxVN55R4LcHqVEMNl3RrQtIY/s4e8
+ciBxbpVrvYkowKhQqewqrAKMeZ7vEj8yqHeDw9BJA9qGN13ZkUisJDJ4qAHu9YhYp2OIvuggM8bE
+ECroJRdIunmOqb8riOHT9gecGLXlslGJuSmH3wjZBVjCenvLfiMCQKT8ujsL8F3tCISAfJGLtg9v
+xjnQaCwtwuylk9Tyf6r3rQZJTdom2GC2fnTzABa7Gv4PzfBByfufuq+vjIKpimgYMQsRCJ94/Emg
+Hc/r98OvINEXNIxLdtfqKFQ5Zl0jdM4RP1JglI1Fbywo0aVrnV0+4rm7L9JZAa/NWFJRppjERcKF
+sydRFst0YNRqAkbq0/4jJ91pC/nYTzHcjVB109TaLnSA5sc+4UyySe61ZpPWbmvyu3d2URiZU6tV
+rjvCoMERJPoizYvKFKLq8CQQ33k=
+--===============6896144685289529995==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNnJmAAoJEAc/Y4ERb2dLe3UH/AvIdG74pSlmPdBdYcD6WrNH3kWmf6o7RPq2
+KRdid9XKzS27/FWqCzj8JwJuEyHOXutM93LjO+XQOIyikWFZWTHQhSzpEjL7wWy+SaXdlbDDFLuY
+1nEHbb81MSTDEX05EAIIS5e2ErDYEww4nFFiyxY/0EMYhfYmIyUwDlMiktVDTO9UKxMs8PpTFqkF
+6SOdDnxLvUIMIx2q4lI50cIYGMdRTF5qzGiddk9SoJa8FpL07LAHzC23pYc8ueTMx+UOsYjBWLbj
+O3FqusbzNWpX59/kIjEiWHRJz/x6jARUW1W2+03zcth3VssELjuc6Q2ZVpJuaR1VMSnv96io5DpQ
+zxU=
+--===============6896144685289529995==--
+

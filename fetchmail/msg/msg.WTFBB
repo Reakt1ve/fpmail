@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 15:46:39 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 15:50:09 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 15:46:39 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6CgL-0000OH-9X
+	for info@zapto.org; Thu, 13 Aug 2020 15:50:09 +0300
+Content-Type: multipart/mixed; boundary="===============8244408830044841865=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============8244408830044841865==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============8244408830044841865==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf/SxstPLVCkHFp+y7/npKtnBoWDy74A5IiIGrnkpZAs7o9PBgM1wQ7q59l
+3nT4992YKVHj3Wu+iJHkLrbuDgZo/iA4q96DNHNvwdnawhR0Loyyv2DHuVwjsOyLj4ASbQYbsZyZ
+difFyHEea8O7rUz3/pCmfhzZuP6822zJaSeZm1TBYPBc1LLAMv47oH1PnYEkOGouHFPYgKs5UGFf
+XXQHK2u4mvlCsxd67nJIwodxlFmUDBDdbNcKjQAio1SYXVBdOX32RW//pQJ5umc5x4lsiKJ8co2T
+uLtn1nT/fdjdjKJti4zKHChF1NrdCR3d2Fu3P0hxw1Mh9GouxWcOOk3yttJZAajvrep8+RwrGdva
+xorGdxuy16ZKoqZUyxq4fc0mwVhX3CQsQcP9OdmX4nveJ8kmvamM1SRN2ci1lYnX8IZe6b5mZuK4
+NR63vLJHeixalCZR7XL1H58fIm4=
+--===============8244408830044841865==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNTRNAAoJEAc/Y4ERb2dL6WYH/RrFkUpOY29eQd4axTifYIwEcZGtZMvjxaXb
+67ir7kYRS5KpVLT+eOhC5bRjUHog4yvn76Ch4ZvdVeZ7SOwBILF8QfQ2krnG4FSvY0NmY2zr4cI7
+6vu/MrBlcgwE5fOwDNppW0z9D2YH0HaQ4rmsLHksImf5M2wVxL1oE+yqX2P4U8FP3felG0/3FLcs
+vkvvDewRRpDZ/HBQFomaQ49qGI+bMRb6KC1X3JVG5iFuVTm4cuownNlmFu1Z66B6y7uTZQFrePxw
+7gXuUWrn3bmoTmIDEU/HYckY6T+p2rpDkuywzNJS4mXhUW0E+5H4rwa5/jQ2oCDcfo/ApGH2ozd3
+Gl8=
+--===============8244408830044841865==--
+

@@ -1,0 +1,51 @@
+From user1@zapto.org  Thu Aug 13 15:46:38 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 15:28:06 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 15:46:38 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6CL0-0000GM-NQ
+	for info@zapto.org; Thu, 13 Aug 2020 15:28:06 +0300
+Content-Type: multipart/mixed; boundary="===============0966907151856330677=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============0966907151856330677==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============0966907151856330677==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf+KXXoBJ7AdVx7NomPA9Y+ZSsgPRUBp5QH3ytm9usPxUlQClwvp/SXq33I
+/zHUXq312YjZn61sA2dmVexTbQwRURtNpYamJXnsXDEXbNj4Xglli1tvl+X5hPLDie+Vaa3tM5xR
+/+KQD9P8Z5GyvIx312IwCnQrW9G4WUgiczsN0GRvvtc/GDhFU/ULHCLEymdEItNB+ARCvi58obyI
+kdLAiSzsc8YlNfawhy8zKxCGQnuMvm/CyELtEM9/E9iTEAohEmirpA/T3e/QrUQruwB1BcNKTSno
+YJOPJ+zpZRn8fHUZz6e+J2pyZvkeITIVKf4S0zF74Y74BlSUoSQWI0Z3B9JFAXgjNQq5Xo78MIxi
+9+SkIbBxq9Wr3XftlVErq/ce+ZwoOABqcjDkxj9c2UhMYfTvImkhTw6uXH3NfOpXQatxo7j41uvg
+--===============0966907151856330677==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNS8iAAoJEAc/Y4ERb2dL2W0H/ixnGRxAc5uxPgFeAVe1NCxsqxwCn0juOeiV
+UO69Scg1h/kmKgdugNHctwLwY8Hxo1mNLQXi5+O8UjyTeykevhS2ovyeR8abIii+nKNKUA3bXpgN
+a3+bmkQAwUnPaAY/UVAEBiHmh4D6KkxXmAY6BBMv+mSJApFbj/3N3UBuZf0LQUnzSlL53moaggKy
+144il1QIHZh+Z8eGwUzHWT00LZ2UO7qLBZfs/8sPRUeqfkTwUWwAJQh3GVQv1jK2NKTGgtZLGMRu
+mlhBpzoCaOM3KA9FktcTj10Owq7NhDz90DttDtZOcvc1Y0OOfps0+lr0wBuf+mRvBKiIZfOviB9I
+Dko=
+--===============0966907151856330677==--
+

@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 14:07:17 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:18:34 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 14:07:17 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6XjG-0009Gb-Uk
+	for info@zapto.org; Fri, 14 Aug 2020 14:18:34 +0300
+Content-Type: multipart/mixed; boundary="===============4967722885217518284=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============4967722885217518284==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============4967722885217518284==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf+Kiyy7v9P68VSS2oOqj4tQbP5UnMbK4ERmU1SceuidgGoayixdPJum/XU
+1ZzrziTUuKz61eC4XlgWW60V1PzsosgKTe3Nmt1IuAB1XpebQH7vCM3Ds0y0OFrAc2hsbjanGAoT
+7xQoFx750fybX1CEO83bF7h2Zo5RcGEVVEIQ6XFcH6xfmKYSRQpD1G1ifdUdV5ElVipmGrq10N6r
+kYbisMgeYxbwFCwF6gFEcXhQJkvA7voklS8pvsUb6cMOy98tWDeIIl4N5ydybGmUvxEu82bjWmz3
+367lsjcG0u7xsUUrK2WXQi05+Y5o87mifH6DOlxKWfrzK+unq7bZTYSAvtJZATI3vcwOZAO7bamx
+B9mpC1EHVfgLNd4MtVNEZ5VFdcnwmjbMRQLUSuS8pZ/xNBjP7pjzz4EoqFACNf6cTLxJqeSlM5li
++XoiSwZRLi858jWhx0qQxSeHz+k=
+--===============4967722885217518284==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNnBXAAoJEAc/Y4ERb2dLtVYIAL5CHthNfq7xQW8xgtHda6Whjg20o5OrdChv
+xtCoyvQMPLOZz2Lt3CjBEiwePv45Y9GY2HR/gTEaWYqrllXXiP9yvaxT+eXXzIbCnv3b7um9j/tQ
+PDOlpWqPn0wjZVc6qEw8y5LdkMNZibyKcNcpGmcNi1U7prhL/onPE1oiANcN5N3/BQomkKoDjKw8
+NWezhxK0uJWzF2lZwPQ6Buiznwm5JQbaqhI/mrmlCJIDQ/wLWKAx1EPbwxciQYtlz+wDnG/kLtZr
+ojt9cybiOSp9RJrRYApV0diJc27+HYuY07+Zoxw97HQ32rWFGhaq4oVAiCrF+bUTcIYX6JersXvB
+qaI=
+--===============4967722885217518284==--
+

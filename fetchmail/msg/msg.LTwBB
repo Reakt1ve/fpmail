@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 13:49:54 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:01:04 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 13:49:54 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6XSK-00096s-5b
+	for info@zapto.org; Fri, 14 Aug 2020 14:01:04 +0300
+Content-Type: multipart/mixed; boundary="===============3125188921434497376=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============3125188921434497376==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============3125188921434497376==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf/TyHB16XKpm8pfonIvHQlGDhRc8wyT8tEmeaWYpbvslfE7GcMkk12Bwhc
+IDnO3AIOzg3w8o9kWRE0/Fmi2cVNZJ+SWXy7Nciylw+xcspuRGXhvc9ZEAxIUyhb4UJRKxVMKyfk
+X4ckxQjYS0StWi+16vPmItsijAdDPwHk2htjAI3k6NA5qOZOdHPNw2XHJwN+mRmZRNXavnYY7xY5
+GfSieZWKr+V4ymAj5lkjRSB3BwAlsPEer+NQ35L4ByaiU0bvK9kIkVW/5ViMQDwnkyt1sGD+AW8A
+u27SG8UeFrYLa2IsFSTv0zxRhDwfNf3ZPAlzjpMoM3a/orisBKht3Hvlp9JZAU0nL/1agB4iIIfK
+dvKbbOvckIzVYRldobSUlTE3hxQoWsMCVGbsgaamlIzII4FL2m9dfP5rxFRSfFDtG200ZoUnRxGt
+yhBlJMLPdhYHpgqNstDQWQmVrGY=
+--===============3125188921434497376==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNmw8AAoJEAc/Y4ERb2dLaQIH/i5QfnJPzPK1pJTA2CJgKfJYyooN49kyeSAB
+y2K1jFv9Kz5jqKzWY0xKDgGf+Gq6MyZMJHxzvgC98AQdjJ5nGK5Ez640HnHVskqznkTjSFyhzUnu
+CwMpHXp5iL+XO6JJgy7j6Eg9NJkc3s8Rk41aVF81gM/YJP6kKg6M0g6hLlOZbWJ3DGndzrpcu7HD
+pD3pz5VxOF9nn2CV/NyMogm9KADDlSZxMeG0SjDYPNWz1zPFXblXrV4H2sBrj4XDzi13Zqe6NSe0
+aYQDDTGf5UqQGSG/1JnfEIn2FoFwagxi0hEo1ieqq59raG8DC/QQ+NbLiv67P/oF7cLLbLzwvJdH
+/2g=
+--===============3125188921434497376==--
+

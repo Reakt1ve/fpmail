@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 15:06:06 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 15:17:04 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 15:06:06 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6Yds-0009iM-Ls
+	for info@zapto.org; Fri, 14 Aug 2020 15:17:04 +0300
+Content-Type: multipart/mixed; boundary="===============6422241799442386633=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============6422241799442386633==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============6422241799442386633==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgA0H+DaAoQkdVn67I7OVBXbz13JYY0ulNF1BDHRWFowxVMlg2p+Yh9L4SC
+JRsb0TgTrFNvAy1Rc/OI1JLqd8N22PZ1fRF54pqpXJh7I59Du6hjEJd34STA4KRuietomVRcx7Ft
+IK2AhA3frU1ApO7HSjEZbVy0KFg2I82HlZgjKGlXlmOvr4yjg0nOhdHx1IdiLpX56ynG4utaZtqb
+30hSkMYnzPvtPjLl68oNsvlL+6plOGUpoZgIH8CrWahBudQFBRAmGfV1UNrSvBmOoBV2rboLVIEP
+uCAXFO9wKhiXmcrMSOGKWqJG0oJHMlUHmuPIhihkQZacd/JdxTCjKv41EdJZAcgohtVjewNS33FM
+M0S+pcHVro5DAgbTM99uDBuICSIhlYuVZyaqszwRqHSjek8fhgNkgxhkn0rabuaHNaN7qJWyHFS6
+0o6+bgU3qa+Lo5OVHK3FumFQp4k=
+--===============6422241799442386633==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNn4MAAoJEAc/Y4ERb2dL8BgH/iF/cMeuOxm5NVWOdEBoVm4jSKFyXQX1o+uJ
+rPW5/YRsX/GvLFhUrHNWzlP3aqTinPNdsOF+Jba3R5WLxRvKWrunmBR/4uJkWON8eBlJLEj1eAIs
+18sGjR76Bm/NRHE/Ic78oAEa3czH+ZEMg1J7LexM7vOO+Iw0SSqzFqV1x0Dz7s5YpTv3RJEH1HZP
+NlU1/6CojhlaKF6FhQo8zMVuxb5cQPF/mEhNsAc02isdtm/5LMknd8Pha8BOdHyLjOS8i9EFdSUG
+70rFtOg/ZFOqjEqjmZs7oguwmD8/yM0zbbCWCj/m0fHPSj2invSjWvVN/T2VINTmtP9bwANtRxbG
+Njs=
+--===============6422241799442386633==--
+

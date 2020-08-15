@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 14:08:29 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:19:42 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 14:08:29 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6XkM-0009H6-N8
+	for info@zapto.org; Fri, 14 Aug 2020 14:19:42 +0300
+Content-Type: multipart/mixed; boundary="===============1839346710698098791=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============1839346710698098791==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============1839346710698098791==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgAne0F6LuznlF790ORSlB0ex3gSR2mo9TjVhPDGHkZ8vToJKhxAhztKD/s
+oytLdSkRGVGhnbu5viYh4/5UiM1awahcCifU3QKyVH1HxfFIp4Kex9u75LqPgm0984PruOyq2F5f
+E+diNZsnDiEBghP7i2YCspkPrjnBuq4Vee5edgalujWtGwE0URk+V8/ZsQP6DXJXB3h94p4iZ3wC
+fIYUkr5UgH6eE4f8iB6k5Bg0ZDAQgBVvCqjzZA9R/zBnGmXxCj7T20+kOMTjGoAScnaAt5eE8hLt
+EAlb2H0KNH9FOsxd8ZrgVZcaaevOzg8i2k1seRvfcAVDVgr4SeMngPN6ddJZAa6ZtwJXN87+nlm0
+oNg1KLmQyMb6tbpIfGaLpa2GOukr5d9B/4K6zPpHCJLd8QC/x30YRGaKAWZLDI4Rf+/vREMDCQ/I
+DnmPRE+en4YBNcAKXJN2GdGYFWs=
+--===============1839346710698098791==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNnCaAAoJEAc/Y4ERb2dLdlgH/1PF7QS7rEH+slEhigz/xDVSBcDYNcSx0SmK
+vfIV8fTb22hERoTnZDqo5bDcXuPm++QEqwT1Ue2LJraa/pacvxHhJEpOKcCADOhUO5OX5/QBeTVW
+9VQASf/+SH5Sy8YQAOGyV1PcotDNyGqnMw2NkElBE116S8ar8DgYCHtjT96U2DQ9FCy3UamDsuaa
+ObNtBzDECPsTJjpOj1+OZruIDeZvEQlJX+KKv82FU8qeK6jyJqYhPjExAVZK9t0hQGCq6BLPtyOD
+yrXRdkoJoKFQLjwg6MIOXCVvwhMbfKwqvn7ybvl6fQ3UwLZScVILpj5erWQtEyWmhg/VtXdIRtF4
+jKA=
+--===============1839346710698098791==--
+

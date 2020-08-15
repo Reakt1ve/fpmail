@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 13:59:29 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:10:50 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 13:59:29 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6Xbm-0009CX-98
+	for info@zapto.org; Fri, 14 Aug 2020 14:10:50 +0300
+Content-Type: multipart/mixed; boundary="===============5277278629965563419=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============5277278629965563419==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============5277278629965563419==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgA3tSOeHPa+33siFX7Zw1Hxskm/RKpzuVjcWPcZmt8wPH+bw+gvGLvJ9Ve
+gE+uzHATgrI7t90I26KwyooDqhWEU4GyvPylEe26WkngXQayK4MNtl6GmeOAwAHRcXLZSKTTeIaB
+C64RLSG4wtrIMJ5ZAoLtfMnSZWRTiH1Pzdhz71tQcxbHndZTbeYwqdpU2vru8CPIf7yKCkUpp9A8
+ZCIBiSirLL8W2A7Swsi6D+ULm8xgDDY1xu7XfuFTRVYQDfT8mSMS498kQyjlu5NKlcz96GEzTY3E
+KEduYEGVX4wIFLHXiPAVcwFBNdDkEhLqluRhzm5zZsqMD1DCAEjNmBB/KNJZAUN+aczVj4MQvn9H
+N/D2JuGJe5GU4aOpf47gcXJaDSUP4xtza/oVCltKjKo7pwUXiS2gFklXrBwsNUp9PdFjrGaYV4Hf
+3y6reu5xgxrzryz4Hk6ysdqhl+w=
+--===============5277278629965563419==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNm6GAAoJEAc/Y4ERb2dLT60H/0+zJbD36QF/aPAF5mnC5lUfp6xKwubMuWSV
+1jt9kmB0RjLYX1pUjzIMMqUwMzEQOQsTCAgNbQzL86LoQSK6TbMDo4LL3kDaLB7ivJ1WfjK06hds
+N1OznA3AUDHZGjIyj7nrgIfpSyTZldy68DYdwb9vemU02Oley9DWCvFHDqOM1rQ6lJR+MHCILEq0
+i718tMdzn2PMQSGLYi2Na4KIpVYPgZlMl7S08bJgNieX/xtk8uh0IY0v+C1S38juTIuS6uiS4+vN
+tDYe1qkZdw2ptZYv3hm+VBGg02hm8E4qoMi0CoRCvPvgc7mQffCCTaL3MkD971SnuQ8iLxJX4lVS
+OO0=
+--===============5277278629965563419==--
+

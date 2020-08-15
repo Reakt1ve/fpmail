@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 16:03:27 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 16:14:28 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 16:03:27 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6D3s-0000X9-8K
+	for info@zapto.org; Thu, 13 Aug 2020 16:14:28 +0300
+Content-Type: multipart/mixed; boundary="===============0305326306880504229=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============0305326306880504229==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============0305326306880504229==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf/eOG341fCAugrRIii05NjUheys5AZTpEhqCfNAhGhrexQWRwa18YOKYHl
+3xEfK55A3pVGzJreu1pQMaZZEgFGAw8B+3Pm7sDqa//BDblF9lYihG7EEqqrbs8vv16KJ4BW830s
+PnNKhyNybYbuoQ8EYPWiJMqEKXCG1jPGu+J+pChjwTLxThYReIkhkCrrTUjtDJ5OzlXI9m6VRKYd
+bxEUAwEIvDfrI9F5NF0sqdtfsOZm+aQAMiDF5txPNJaedDiiGb3MGj1PtAW0QX8ptrqg2BlbBL2+
+9efDY/FdAe45TzjJuJq85yikR/v1OtISPHgX5vqsdFr3PxAc8yaOP0hmF9JZAST+7ClCb9o9Zthx
+SbVedS6xmqdvVqAZOM2xKbfF1GlpESRwq0S3zrWjuCkwHqj2rCr6uJSdSa8x09vuB5HQ8t4V2f07
+U5IaoLUKd/lExsXDdXP1c7Fx/Ik=
+--===============0305326306880504229==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNToAAAoJEAc/Y4ERb2dLzHEH/018z83ebAm/VHPS8mJGb3VjXfv4arsWSipK
+rc+bxBndUQZOrhEfl3eK2EbVxX1ost4bTaT2bgZshr2kRkxKyXHRO6ngkev+eaFNpia/0SMhrVeP
+8LqHamx6geRK4cO+/2KSRP7hrbSMGPD8aIThqrEHTksf8VFkt9FJQxYXsXWeC5haeVhqhzRjkYaN
+lVeO0Rlr7rFAYF99XOZiFTs8vJMkrn1cH6njk0lu6ifVeH3UvSWN0rA7a50OqA1A6eroKrUOW3uG
+ca+ZoXnLbH+Lu8UKQERb1zro8jWjdxfqsfT6Csn8/mHMRVQW2b+Z+OO1SNnYev+BOfn/YR0YQ6L3
+CG8=
+--===============0305326306880504229==--
+

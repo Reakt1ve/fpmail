@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 14:15:05 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:26:16 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 14:15:05 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6Xqi-0009KU-IM
+	for info@zapto.org; Fri, 14 Aug 2020 14:26:16 +0300
+Content-Type: multipart/mixed; boundary="===============8727146266755871144=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============8727146266755871144==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============8727146266755871144==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgAmnMWMwnPungjkExduUP19m5dk/cLFbTyR5v6O8PnqHy67D46MmTVcM7g
+h8E/40jVH4Jlrx1Voi5FJySfuL0K7EFdy0x2m9elPLMRrJMYQbrkhw2ZIm+2kD85jc3viEX/mXvZ
+rI6e16Zyrf9x64zwc+rKyRlLe56R2HABw2fQ9yfzogQb8XyRsDAYM3Y3M+SRO8gBSSG8/0Cr/f0x
+vfWHCU1PUEluq5JcWenu8IDwiq5JP7yQk0JRI1LjDtRtm9spBiZhr+Q6d2JAcf+kkJ88UvghyS1T
+GB25iDPxa5lAcfw0C/0544aStwKV4r3GafS5MAgjPf2iKUQnWOB7PwWFq9JZAXSIkFEAREbRzZHg
+LtqSktV1z5UE936dTrJAycq7r9mWFNAy/tP7tJQ1VmHGVSdDPRnfuW440G8c105XUdCd0LK/frZS
+xcPJg/8qQ5blxCBBwBvTyV5YVr4=
+--===============8727146266755871144==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNnIkAAoJEAc/Y4ERb2dL8rkH/3Bx3JNasklMo4IKdDXvz/MwmsrtZkJy2LLM
+07rCuiwuSScK0zNebVy6670TWnwXFhmkb9htjqBPRq3UwWjf/8LDqwOy5JX/CXQRymKeLLhTvABd
+sPBq2bWTFqFPYuwnlSBEfX33/iJj1TIIrUnjtCaIMv6jcA99eiI5+oetlkc4urAjWjTAgA/bFrSH
+2MJGuxf3Yp1CZXfz4Zb5GPJg4JyRNM55Vqs178EtCVMtDVecdUibgphMR0hnxijNf3jkcnX3rVmt
+k6Ppizk+VQFbpHLyQBKjHXt6Y71VRFd8UBibsYev47Hak6WKu4B5ZNbdd7UcjrRIhDFsuyCs6TX+
+hAg=
+--===============8727146266755871144==--
+

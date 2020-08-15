@@ -1,40 +1,26 @@
 #!/bin/bash
 
-/usr/bin/expect << EOF
-	spawn gpg --output text.txt.asc --encrypt -r 02B1A9097AB4A50614D1BCD158E2A908E8FA51B1 $1
-	expect -exact "Все равно использовать данный ключ? (y/N)"
-	send -- "y\r"
-	expect eof
-EOF
+declare -A creditals
+BUFFER=$HOME/informator/encrypt/buffer.txt
 
-/usr/bin/expect << EOF
+while read line; do
+	arg=$(echo $line | awk '{print $1}')
+	if [[ "$arg" == "PASSWORD" ]]; then
+		creditals[PASSWORD]=$(echo $line | awk '{print $3}')
+	fi
 
-	spawn gpg --output text.txt.sig --local-user 203D32DFCFF14A413F6C29AE09BFEE9C4FF2337B --detach-sign $1
-	expect {
-		"Фраза-пароль" {
-			send -- "q"
-			expect -exact "*^[(B^[\[m"
-			send -- "w"
-			expect -exact "*^[(B^[\[m"
-			send -- "e"
-			expect -exact "*^[(B^[\[m"
-			send -- "r"
-			expect -exact "*^[(B^[\[m"
-			send -- "t"
-			expect -exact "*^[(B^[\[m"
-			send -- "y"
-			expect -exact "*^[(B^[\[m"
-			send -- "1"
-			expect -exact "*^[(B^[\[m"
-			send -- "2"
-			expect -exact "*^[(B^[\[m"
-			send -- "3"
-			expect -exact "*^[(B^[\[m"
-			send -- "\r"
-		}
-	}
+	if [[ "$arg" == "ENCRYPTION_KEY" ]]; then
+		creditals[ENCRYPTION_KEY]=$(echo $line | awk '{print $3}')
+	fi
 
-EOF
+	if [[ "$arg" == "SIGN_KEY" ]]; then
+		creditals[SIGN_KEY]=$(echo $line | awk '{print $3}')
+	fi
+done < $HOME/informator/encrypt/encrypt.conf
 
-sudo python send_mail.py
-sudo rm -R text.txt.sig text.txt.asc
+echo "$1" > $BUFFER
+
+gpg --output ./text.txt.asc --encrypt -r ${creditals[ENCRYPTION_KEY]} $BUFFER
+gpg --output ./text.txt.sig --local-user ${creditals[SIGN_KEY]} --batch --yes --passphrase "$(echo ${creditals[PASSWORD]} | openssl enc -base64 -d)" --detach-sign $BUFFER
+python $HOME/informator/encrypt/send_mail.py
+rm -R ./text.txt.sig ./text.txt.asc $BUFFER

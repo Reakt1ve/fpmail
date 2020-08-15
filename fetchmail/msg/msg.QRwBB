@@ -1,0 +1,52 @@
+From user1@zapto.org  Fri Aug 14 14:04:53 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Fri, 14 Aug 2020 14:15:52 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Fri, 14 Aug 2020 14:04:53 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6Xge-0009Ej-2A
+	for info@zapto.org; Fri, 14 Aug 2020 14:15:52 +0300
+Content-Type: multipart/mixed; boundary="===============3987739044512548684=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============3987739044512548684==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============3987739044512548684==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf+NH9ulityhLPL80cedfuA0E5j7/sXbcFnB4XtlCK9T2LXuiI+sAUKBjAN
+3juy8L6fXbMPDBft795MoiokWRKXOhhOWgy1Nw6jHLuiyuXDcbNhg4g5rrVnDfUwzAqgtlrQsQo0
+0rbKseIM39lFsBaznjs2AOlj6DSnLVzJDobvV7rXGYXpKO6GucO7HhRjHDD4JHK39O82e2o5NyBr
+bhNgnb1N/c2ZqJS7+haxNe25USfGtsswyzPKVI4R546Ya1V+z8/ZhE0ii4CvgiYgrItqqRNV1mAP
+1LHpM2Ef5P+lgV8CjMSekIdnxFJ9+ZSUAEvpkIw+Q2+tHAYYOJSfoETC7dJZARXEmo1XoR88p3Qh
+Cec33tlLo/X+35ZE/xXpH4ROWKpTEj6P4k4yEVaFFZ7ksS67qYkkiEdLkFpxrdKW6KYiqD3mqP3h
+OF0X7qgfxi3XJRJI8AK7x7aa3R4=
+--===============3987739044512548684==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNm+0AAoJEAc/Y4ERb2dLuHgH/Rvr3Ey0vltjYxMyrKjI/4MAbGgT5S4PZc1c
+ypd35atIWJTDMj4elfX2rHoIWgL+wwpBy/4cPaE6b74EKCFsoCNKmCTHk4Td7Vmbzpv/ioKHUFdA
+WvypIb5EEgqEvaq77r3zsBkt1HxWaTrTNe6yKlARCB0RoHj5j7EYPqdzsqlPzucJjnn5kUQX6tBL
+pzKbvfj9ka/9+7QNAIoa/yqHCzyh8atUOSWLxciDsxTEiezYQTLP0Yp1i1/vK0IfhvRJfCbuzBvh
+2wAuiBsRULZWFmmXL+T1Cz7dlMCXydFGbE1cF/X9l7a82A+2qbt/wNTheJAJuGW+qI6C7oVTtnza
+ET0=
+--===============3987739044512548684==--
+

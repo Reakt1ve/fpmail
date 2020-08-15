@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 16:14:15 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 16:25:27 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 16:14:15 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6DEV-0000b3-B3
+	for info@zapto.org; Thu, 13 Aug 2020 16:25:27 +0300
+Content-Type: multipart/mixed; boundary="===============1304711975216193715=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============1304711975216193715==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============1304711975216193715==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQf/bD39BBHQ8Ykg00NfdOziMquh+o8SzxM5wFknp5ki/5daINXad3FNT6Xm
+qGZMk+JuADXg562BHywIL3RgdrPHHRIRQHJKNulN0pESYSD439CVOMg2kkoXqtbOzD9KPST8X/Wc
+m9zjp/zqn10do8IOWRsPtPlMLSOJhgseq8V0wEua8NnULo6saRoy/f4D9dljxBQrAHu+rop6OaVF
+RrEwHZatEYr8oAUi32VFdou8obzmRpLTy9ubEKvx/DgLBuJ6i5ybeJs0E0umGU0rRqSD6OIveEPH
+Hvbpv4ldmjD4hchbYFqRU0R4ccycEXq04qqWfMRO29oswsluqJRd/JH0cdJZAUrUt4xW2ZBkxd1b
+32/4WXNNVWYeYQVFG9LwPDka0FVvx6YSlGqxwjJhXU5I2XczYNlpV1Odu4tOau41JtsisY0UGZca
+7a2g/Py3mYm7HTUtsG5m2fpcx3A=
+--===============1304711975216193715==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNTyTAAoJEAc/Y4ERb2dLM+4H/13oAIahGbaSf/HmO/6yO58uDOJSBZisYouq
+vIuNpDtSlfCV6iRgjWVCivYM1LsakSosgzywJEMqpE4/tTub2CVEt3bPuTIsS2BgY3zM7KFKX/bz
+MXFvp/Ur+i0VlGhHIPRNVQaa13v10L6EoTPuW0v2P7qxabO/E7w6YyimGkcDVY2zSu08kj5K8xy0
+59u597wJK/s75fruAAFZXzlU6riacpqukQxGgEaTCMGavwBghl+EY9qG6+CQbx5PqJeRyE2kpKsZ
+sK9rCgF7caUXXWUNKDMD23dDNJZ51TwidoJ/uThmawEQnd7Y61E8TUZcYSy7AQG9u0AchlzkUHl4
+zSE=
+--===============1304711975216193715==--
+

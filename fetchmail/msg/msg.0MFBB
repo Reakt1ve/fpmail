@@ -1,0 +1,52 @@
+From user1@zapto.org  Thu Aug 13 15:46:39 2020
+Return-path: <user1@zapto.org>
+Envelope-to: info@zapto.org
+Delivery-date: Thu, 13 Aug 2020 15:40:46 +0300
+Received: from citismatrix.zapto.org [176.113.83.34]
+	by localhost.localdomain with IMAP (fetchmail-6.3.24)
+	for <alexeysenu@localhost> (single-drop); Thu, 13 Aug 2020 15:46:39 +0300 (MSK)
+Received: from [213.141.135.222] (helo=localhost.localdomain)
+	by zapto.org with esmtpsa (TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256)
+	(Exim 4.89)
+	(envelope-from <user1@zapto.org>)
+	id 1k6CXG-0000LY-IR
+	for info@zapto.org; Thu, 13 Aug 2020 15:40:46 +0300
+Content-Type: multipart/mixed; boundary="===============1757912185275647722=="
+MIME-Version: 1.0
+From: user1@zapto.org
+To: info@zapto.org
+Subject: Test
+
+--===============1757912185275647722==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Attachment
+--===============1757912185275647722==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.asc"
+
+hQEMA0qxHOk5oHAqAQgAhzbd9Xyp1ArL/fkVa//A7K6fWhwmppajovxHSjQXziXCbA3mnj1h17gq
+s5N+IqsIJOtmvPs8Yoay5J/YSZj/Lsq/UPm0zJRXeIquue+rV3LxMrtryvTJoQNSXf2cMbv26nP9
+YG+7QR7eAxpOi8z7mfbuEsq+5Z8uXJWmOTyBUgCJQwmzSw8+0W5vE7INEkidc9KabO81tEGGdVI3
+hl3wJNQrSTFUROlo9WK4nXv0uA2apGmw2nl6mMJTHHZRT7rKnZ7ZKWoybRmn8/7CTsPJ/7A/WUJz
+2sxZrwfu4555STTVeXXbc3FsE1rHfpCiOj8JQMCkdCzf/QbHnd/0lz9ctNJPASmsvjkKj3hxHpac
+QczdW860OXBDgQyaxEk/AlFWWMYBwKRmrsMlp1TyNx9xTaubXYtBLb4RIw7Xhwo65T78F33ePa+/
+JcxMn6KHkPg7Iw==
+--===============1757912185275647722==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="dbText.txt.sig"
+
+iQEcBAABAgAGBQJfNTIaAAoJEAc/Y4ERb2dLVDoIALIh566oHpDviHFlz73U8h9PeumsCvSyuhDW
+nFFrPlPWOq0z/NWZuHZpbkKnaUWsGKi2pbYG27XpriAemY5osF9CrxW8dsf3/h28LoQX067foakn
+TX1kcGGSLvZHtDDJtbrL7tXf/kK1xS+CZl4yInMKB0TnWQUJL0kBUG7UedvhKtKaQRQgN3ve6H5O
+rLBre+UsQ6Fs7L/3ey850uaVXOt5qN6Y58G+hxqs9WuuMHdNNE7UPGsqU8caViGtwMpCiLlYJZkX
+6SjhkbAl87sA7cDE+xZ5I73Qe0OHQ9Nl8gm3OOFflFaWm0W3mCtGSuvGJMqltLFFdn93nDJ0su+5
+Q+4=
+--===============1757912185275647722==--
+

@@ -10,8 +10,8 @@ def send_mail():
 	message = "Attachment"
 
 	# setup the parameters of the message
-	msg['From'] = "user1@zapto.org"
-	msg['To'] = "info@zapto.org"
+	msg['From'] = "user1@zapto.org"    # change value with TO
+	msg['To'] = "info@zapto.org"     # change value with FROM
 	msg['Subject'] = "Test"
 
 	# add in the message body
@@ -31,6 +31,7 @@ def send_mail():
 	server.starttls()
 
 	# Login Credentials for sending the mail
+	print(msg['From'])
 	server.login(msg['From'], "qwerty123")
 
 	# send the message via the server.
