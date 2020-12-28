@@ -1,2 +1,2 @@
 # informator
-Make-desiom system (part of large system)
+Make-desion system (part of large system)
