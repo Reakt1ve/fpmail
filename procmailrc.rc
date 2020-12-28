@@ -1,0 +1,23 @@
+LOGFILE=$HOME/informator/procmail/log/procmail.log
+MAILDIR=$HOME/Mail
+DEFAULT=$HOME/Mail/mbox
+SHELL=/usr/bin/python
+DEBUG=yes
+VERBOSE=yes
+
+:0
+*^content-Type:
+{
+	:0c:
+	$HOME/informator/fetchmail/msg
+
+	:0f
+	| uudeview -i +a +o -p $HOME/informator/fetchmail/attachments -
+
+	:0
+	| $HOME/informator/decrypt/procmail_trigger.py
+}
+
+:0
+* !^From.*info@zapto.org
+/dev/null
