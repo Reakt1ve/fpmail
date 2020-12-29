@@ -1,0 +1,13 @@
+fpmail:
+    image: fpmail:latest
+    restart: always
+    environment:
+      FPMAIL_OUT_DMS: "172.16.120.14"
+    volumes:
+      - /etc/fpmail/fetchmail:/home/fetchmail/fetchmailrc
+      - /etc/fpmail/procmail:/home/fetchmail/procmailrc
+      - /etc/fpmail/Mail:/home/fetchmail/Mail
+      - /etc/fpmail/.procmailrc:/home/fetchmail/.procmailrc
+    ports:
+      - 993:993
+      - 10128:10128
