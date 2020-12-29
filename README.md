@@ -9,7 +9,7 @@
             -v /etc/fpmail/fetchmail:/home/fetchmail/fetchmailrc \
             -v /etc/fpmail/procmailrc:/home/fetchmail/procmailrc \
             -v /etc/fpmail/Mail:/home/fetchmail/Mail \
-            -e FPMAIL_OUT_DMS="172.16.120.14" fpmail
+            -e FPMAIL_OUT_DMS="1.1.1.1" fpmail
 </pre>
 <p>Note: FPMAIL_OUT_DMS is optional env variable. It is required in case if you have a decision-making system.</p>
 
@@ -18,7 +18,7 @@
          image: fpmail:latest
          restart: always
          environment:
-           FPMAIL_OUT_DMS
+           FPMAIL_OUT_DMS="1.1.1.1"
          volumes:
            - /etc/fpmail/.procmailrc:/home/fetchmail/.procmailrc
            - /etc/fpmail/fetchmailrc:/home/fetchmail/fetchmailrc
