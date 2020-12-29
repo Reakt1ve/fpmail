@@ -1,4 +1,4 @@
-# informator
+# Part of informator
 
 <h1><b>Fpmail</b></h1>
 
