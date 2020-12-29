@@ -1,5 +1,3 @@
-# Part of informator
-
 <h1><b>Fpmail</b></h1>
 
 <p>This docker image will run as a single process.</p>
