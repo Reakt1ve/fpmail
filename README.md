@@ -13,6 +13,13 @@
 </pre>
 <p>Note: FPMAIL_OUT_DMS is optional env variable. It is required in case if you have a decision-making system.</p>
 
+<h2>Permissions</h2>
+<p>UID fetchmail = 10001</p>
+<pre>chown fetchmail:nogroup fetchmail && chmod 700 fetchmail
+     chown fetchmail:nogroup procmail && chmod 700 procmail
+     chown fetchmail:nogroup Mail && chmod 700 Mail
+</pre>
+
 <h2>Docker-compose</h2>
 <pre>fpmail:
          image: fpmail:latest
