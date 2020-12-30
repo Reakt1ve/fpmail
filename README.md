@@ -18,6 +18,7 @@
 <pre>chown fetchmail:nogroup fetchmail && chmod 700 fetchmail
      chown fetchmail:nogroup procmail && chmod 700 procmail
      chown fetchmail:nogroup Mail && chmod 700 Mail
+     chown fetchmail:nogroup .procmailrc && chmod 700 .procmailrc
 </pre>
 
 <h2>Docker-compose</h2>
