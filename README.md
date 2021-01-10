@@ -29,8 +29,8 @@
            FPMAIL_OUT_DMS="1.1.1.1"
          volumes:
            - /etc/fpmail/.procmailrc:/home/fetchmail/.procmailrc
-           - /etc/fpmail/fetchmailrc:/home/fetchmail/fetchmailrc
-           - /etc/fpmail/procmailrc:/home/fetchmail/procmailrc
+           - /etc/fpmail/fetchmail:/home/fetchmail/fetchmailrc
+           - /etc/fpmail/procmail:/home/fetchmail/procmailrc
            - /etc/fpmail/Mail:/home/fetchmail/Mail
          ports:
            - 993:993
